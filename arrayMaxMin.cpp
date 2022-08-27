@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//find the minimum and maximum number in array in manual method.
 int  minMax(int arr[] , int size){
     
     int min ,max;
@@ -21,7 +22,7 @@ int  minMax(int arr[] , int size){
    
 }
 
-
+//main function.
 int main(){
 int arraySize;
 cout<<"Enter the size of array = ";
